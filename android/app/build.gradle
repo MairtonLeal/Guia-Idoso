@@ -198,8 +198,7 @@ android {
 
 dependencies {
     implementation fileTree(dir: "libs", include: ["*.jar"])
- 
-  
+
    //Multidex erro
      implementation 'com.android.support:multidex:1.0.3'
     //noinspection GradleDynamicVersion
